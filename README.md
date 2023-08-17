@@ -1,0 +1,29 @@
+# Simple tkinter oop calculator
+## 1) Introduction
+### a simple OOP calculator made with tkinter 8.6 and runs in two modes: <mark>Basic</mark> and <mark>Advanced</mark>
+
+
+## 2) Features
+### Basic Mode
+- <b>Elementary Arithmetic</b> (+ , - , x , ÷)
+- <b>Percentage</b> %
+### Advanced Mode
+- <b>Power</b> x<sup>n</sup>
+- <b>Sqrt</b> √
+- <b>Absolute Value</b> |x|
+- <b>Floor</b> [x]
+- <b>Inverse of Number</b> 1/x
+- <b>Factorial</b> x!
+- <b>Logarithm ( <i>*to the base of e by default</i> )</b> Log<sub>e</sub>x
+- <b>Pi Number</b> π
+- <b>Euler's Number</b> e
+- <b>Trigonomerty</b> (sin, arcsin, cos ...)
+
+### Notes:
+1. app runs in basic mode by default, so you can go to <b>Options</b> in menubar and switch to advanced mode.
+2. by pressing <b>Tri</b> button a pop-up window appears, so you can use <b>Trigonometry</b> functions.
+
+## 3) How to use
+### you can easily run the app from <i>run.py</i> file.
+---
+My GitHub Page: [GitHub.com/FroudX](https://www.github.com/froudx)
